@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+.react-router/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# NPM credentials (don't commit tokens!)
+.npmrc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache
+.eslintcache
+*.tsbuildinfo
+
