@@ -2,7 +2,7 @@
 
 Local skills for rapid application prototyping with OpenGov Capital Design System.
 
-## Skills Inventory (8 total)
+## Skills Inventory (14 total)
 
 ### Core (1 skill)
 - `seamstress-core-principles` - Page-level golden rules, validation checklist, Seamstress-specific theme overrides
@@ -18,6 +18,16 @@ Local skills for rapid application prototyping with OpenGov Capital Design Syste
 - `detail-view-pattern` - Read-only detail pages
 - `form-pattern` - Create/edit forms with validation
 - `list-view-pattern` - DataGrid lists with search, filters, pagination
+
+### Product Management (6 skills)
+- `aha-okrs` - Company and team OKRs from Aha! (`aha-company-okrs`, `aha-team-okrs`)
+- `aha-roadmap` - Launches, initiatives, features, products (`aha-launches`, `aha-initiatives`, `aha-features`, `aha-products`)
+- `aha-feedback` - Customer ideas and feedback (`aha-ideas`)
+- `aha-workflows` - Status and workflow definitions (`aha-workflows`)
+- `product-experts` - Product-specific AI assistants (`ask-product-gpt`)
+- `jira` - Issues and work items (`jira-issue`)
+
+See [product-management/README.md](./product-management/README.md) for environment requirements and usage.
 
 ## Removed Skills (now in external plugin)
 
