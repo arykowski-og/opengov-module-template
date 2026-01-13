@@ -1,14 +1,1 @@
-{
-  "mcpServers": {
-    "og-product-strategy": {
-      "type": "remote",
-      "url": "https://og-product-hub.vercel.app/mcp",
-      "enabled": true,
-      "oauth": false,
-      "headers": {
-        "Authorization": "Bearer {env:PMF_API_KEY}"
-      },
-      "timeout": 10000
-    }
-  }
-}
+{}

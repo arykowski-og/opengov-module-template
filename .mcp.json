@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "og-product-strategy": {
+      "type": "http",
+      "url": "https://og-product-hub.vercel.app/mcp",
+      "headers": {
+        "Authorization": "Bearer {env:PMF_API_KEY}"
+      }
+    }
+  }
+}
